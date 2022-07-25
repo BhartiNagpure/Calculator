@@ -1,0 +1,33 @@
+
+body{
+    text-align: center;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 3%;
+}
+.container{
+    background-color: black;
+    width:22%;
+    padding-top:1.6%;
+    padding-bottom: 1.6%;
+    border-radius:5%;
+    margin-left:39%;
+    box-shadow: 6px 6px powderblue;
+}
+.input{
+    width:70%;
+    margin: 3px;
+    height:40%;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 5%;
+    box-shadow:2px 2px powderblue ;
+}
+.button{
+    margin:1%;
+    width:18%;
+    height: 25%;
+    border: 2px solid black;
+    border-radius: 9px;
+    padding:2.5%;
+    box-shadow:2px 2px powderblue ;
+}
